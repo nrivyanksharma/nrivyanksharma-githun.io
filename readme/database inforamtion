@@ -1,0 +1,12 @@
+all words are case sevsitive.
+
+ 
+
+
+=====TABLES=====
+
+category:-
+	id, categoryTitle, authorName, dateTime.
+
+posts:-
+	id, dateTime, title, category, author, image, post.

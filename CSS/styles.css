@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	padding:0;
+}
+a{
+	color:white;
+	/*min-height: 50px; */
+}
+.green{
+	background:green;
+	min-height: 50px; 
+	
+}
+.gray{
+	min-height: 50px; 
+	background: lightgray;
+}
+.red{
+	min-height: 50px; 
+	background:red;
+}
+.orange{
+	min-height: 50px; 
+	background:orange;
+}
+.yeallow{
+	min-height: 50px; 
+	background:yellow;
+}

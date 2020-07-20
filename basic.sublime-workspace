@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grid",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/QuiteStupid/Documents/Projects/HTML&CSS Projects&JS/webpage/rough.css",
+		"/C/Users/QuiteStupid/Documents/Projects/HTML&CSS Projects&JS/webpage/rough.html",
+		"/C/Users/QuiteStupid/Desktop/Website-20200420T091640Z-001/Website/Gallery/Gallery.css",
+		"/C/Users/QuiteStupid/Desktop/Website-20200420T091640Z-001/Website/Gallery/Gallery - Copy.html",
+		"/C/Users/QuiteStupid/Documents/CSS Projects/Rough/race.html",
+		"/C/Users/QuiteStupid/Documents/box.css",
+		"/C/Users/QuiteStupid/Documents/box.html",
+		"/C/Users/QuiteStupid/Documents/rough.html",
+		"/C/Users/QuiteStupid/Documents/rough.css",
+		"/C/wamp64/www/CMS/basic.html",
+		"/C/wamp64/www/CMS/categories.php",
+		"/C/wamp64/www/PHP&DB/delete.php",
+		"/C/wamp64/www/PHP&DB/employe.php",
+		"/C/wamp64/www/PHP&DB/view_data.php",
+		"/C/wamp64/www/CMS/Include/datatime.php",
+		"/C/wamp64/www/CMS/Include/session.php",
+		"/C/wamp64/www/CMS/Include/database.php",
+		"/C/wamp64/www/PHP&DB/update.php",
+		"/C/wamp64/www/CMS/Dependencies/bootstrap.css",
+		"/C/wamp64/www/CMS/simple.php",
+		"/C/wamp64/www/Website/WebsiteStyle.css",
+		"/C/wamp64/www/CMS/Css/styles.css",
+		"/C/wamp64/www/CMS/Dependencies/jquery.js",
+		"/C/Users/QuiteStupid/Downloads/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.css",
+		"/C/Users/QuiteStupid/Downloads/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.min.css",
+		"/C/wamp64/www/CMS/Dependencies/bootstrap.min.css",
+		"/C/wamp64/www/PHP&DB/status.php",
+		"/C/Users/QuiteStupid/Desktop/jquery.js",
+		"/C/wamp64/www/PHP&DB/include/style.css",
+		"/C/wamp64/www/Website/index.php",
+		"/C/wamp64/www/Website/Pages Folder/sidebar/bugatti.php",
+		"/C/wamp64/www/Website/Pages Folder/home.inc.php",
+		"/C/wamp64/www/Website/Pages Folder/bugatti.php",
+		"/C/wamp64/www/PHP&DB/simple.php",
+		"/C/wamp64/www/PHP&DB/include/DB.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "basic.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 82.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
